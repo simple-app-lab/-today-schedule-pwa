@@ -1,0 +1,9 @@
+{
+  "name": "きょうのよてい",
+  "short_name": "きょうのよてい",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#fffaf0",
+  "theme_color": "#fff8e8",
+  "lang": "ja"
+}
